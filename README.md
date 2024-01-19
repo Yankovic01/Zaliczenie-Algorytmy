@@ -1,1 +1,1 @@
-# Zaliczenie-Algorytmy-i
+# Zaliczenie-Algorytmy
