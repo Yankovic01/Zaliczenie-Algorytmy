@@ -10,9 +10,9 @@
 
 function fib(n) {
     switch(n){
-        case "1":
+        case "0":
             return 0;
-        case "2":
+        case "1":
             return 1;
         default:  
             let fibn = [0, 1];
